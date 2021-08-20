@@ -1,0 +1,21 @@
+.comingsoon:hover{
+	
+}
+.custom-card-requirement{
+	font-weight: bold;
+}
+.code-custom-edit{
+	overflow-x: auto;
+	white-space: nowrap;
+	padding: 10px;
+}
+.custom-card-content{
+	font-size: 18px;
+}
+.custom-card-title{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+/*data-toggle="tooltip" title="Hooray!" add this shit later*/
